@@ -1,0 +1,433 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.16f1 (049d6eca3c44) revision 302446'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1466; Version 2009; 64bit' Language: 'en' Physical Memory: 16242 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/Documents/GDD411/AaronandWillFinal-master
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60432
+Successfully changed project path to: D:/Documents/GDD411/AaronandWillFinal-master
+D:/Documents/GDD411/AaronandWillFinal-master
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 31.91 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.16f1 (049d6eca3c44)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/Documents/GDD411/AaronandWillFinal-master/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   
+    VRAM:     8081 MB
+    Driver:   30.0.14.7135
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56296
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003132 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 27.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.286 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1286ms)
+		BeginReloadAssembly (58ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (376ms)
+			LoadAssemblies (55ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (143ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (28ms)
+			SetupLoadedEditorAssemblies (137ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (28ms)
+				BeforeProcessingInitializeOnLoad (8ms)
+				ProcessInitializeOnLoadAttributes (71ms)
+				ProcessInitializeOnLoadMethodAttributes (25ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.004908 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.022 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1023ms)
+		BeginReloadAssembly (143ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (819ms)
+			LoadAssemblies (83ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (263ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (42ms)
+			SetupLoadedEditorAssemblies (347ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (51ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.34 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1614 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 72.8 MB.
+System memory in use after: 72.9 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 2049.
+Total: 3.167800 ms (FindLiveObjects: 0.166400 ms CreateObjectMapping: 0.047600 ms MarkObjects: 2.881800 ms  DeleteObjects: 0.070800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Scenes/nextlevel.png
+  artifactKey: Guid(9f5fc1421f5c644528748992694050b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/nextlevel.png using Guid(9f5fc1421f5c644528748992694050b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b8e5d74c4561810d1a57166ad1cfe9f') in 0.160041 seconds 
+  Import took 0.162603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Scenes/endgame.png
+  artifactKey: Guid(75f441a4ed4194ed5b4017581cfdafe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/endgame.png using Guid(75f441a4ed4194ed5b4017581cfdafe0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fdf6c35e7fbb975f4d981be8c0d635') in 0.012187 seconds 
+  Import took 0.014674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Scenes/chad.prefab
+  artifactKey: Guid(0b7fca36db04db44fa58b36fa8127f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chad.prefab using Guid(0b7fca36db04db44fa58b36fa8127f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee24ab7b932140cc2742021f1b1646ba') in 0.074209 seconds 
+  Import took 0.076692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Scenes/chadrun.gif
+  artifactKey: Guid(d1b7b542d3f44274fa72dae98fb416ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun.gif using Guid(d1b7b542d3f44274fa72dae98fb416ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7387f92f81eed73c674e759b6be169') in 0.012751 seconds 
+  Import took 0.015194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Scenes/box.prefab
+  artifactKey: Guid(67706eb2537ccab4480842f7dc17a9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/box.prefab using Guid(67706eb2537ccab4480842f7dc17a9e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f984dfebd136bd249c04a8dc831b4bb7') in 0.007945 seconds 
+  Import took 0.010494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Scenes/chad 1.prefab
+  artifactKey: Guid(59c7d923c1e20384d8194e4419179d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chad 1.prefab using Guid(59c7d923c1e20384d8194e4419179d48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77d8f93cd63a2752cd92fb55b805c91b') in 0.015431 seconds 
+  Import took 0.018280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Scenes/chadIdle.png
+  artifactKey: Guid(b2e8bb455095841a19156465d7819de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadIdle.png using Guid(b2e8bb455095841a19156465d7819de8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d7473b8ea3acfa0c9b9952b877d1e0c') in 0.010322 seconds 
+  Import took 0.012570 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Scenes/chad.png
+  artifactKey: Guid(9d9e7f6027e300f49b13c8c0acfd8c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chad.png using Guid(9d9e7f6027e300f49b13c8c0acfd8c05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97a8fea7b63434d3a8c1caedaaac3ad3') in 0.010464 seconds 
+  Import took 0.013155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Scenes/box.png
+  artifactKey: Guid(9dc74619ff9e2e046aa07248512880ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/box.png using Guid(9dc74619ff9e2e046aa07248512880ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd73dbebf7ddd46c7ffd210495ccfdeea') in 0.008756 seconds 
+  Import took 0.011173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.605399 seconds.
+  path: Assets/Scenes/openScene.unity
+  artifactKey: Guid(c69860b20b832d543b45372b886a2118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/openScene.unity using Guid(c69860b20b832d543b45372b886a2118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efca169b4e5d5796a1d6f39a37c47057') in 0.002442 seconds 
+  Import took 0.005041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011408 seconds.
+  path: Assets/Scenes/openScene.unity
+  artifactKey: Guid(c69860b20b832d543b45372b886a2118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/openScene.unity using Guid(c69860b20b832d543b45372b886a2118) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efca169b4e5d5796a1d6f39a37c47057') in 0.001938 seconds 
+  Import took 0.004557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.097646 seconds.
+  path: Assets/Scenes/chadrun
+  artifactKey: Guid(c40371ac26e87164bab09a09def510d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun using Guid(c40371ac26e87164bab09a09def510d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '498576c315dd9ead0409e80f3087368f') in 0.001858 seconds 
+  Import took 0.004569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084058 seconds.
+  path: Assets/Scenes/chadrun/run1.png
+  artifactKey: Guid(7d9b777e090e70a4d9f7f122e78a2b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run1.png using Guid(7d9b777e090e70a4d9f7f122e78a2b4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b556f5823ce6eabd80818fba48ae519') in 0.009667 seconds 
+  Import took 0.012073 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Scenes/chadrun/run9.png
+  artifactKey: Guid(e36e0b9e8bcb73d428f25ae9d243fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run9.png using Guid(e36e0b9e8bcb73d428f25ae9d243fc26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5cf7c8cc480651ee59e1f320bb0f10f') in 0.010126 seconds 
+  Import took 0.012344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Scenes/chadrun/run6.png
+  artifactKey: Guid(149c5f63fc3cad449bbe08f0f010f28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run6.png using Guid(149c5f63fc3cad449bbe08f0f010f28e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9144fa930218633e4ef67e7d9def1b88') in 0.010592 seconds 
+  Import took 0.013066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Scenes/chadrun/run7.png
+  artifactKey: Guid(eba7111f11653554f909a3ad359145d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run7.png using Guid(eba7111f11653554f909a3ad359145d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2103a8f52b7446d5d6f9ff0b03b7646e') in 0.010428 seconds 
+  Import took 0.012930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Scenes/chadrun/run3.png
+  artifactKey: Guid(7b9cc8f498aa4bc4093d1efe58838554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run3.png using Guid(7b9cc8f498aa4bc4093d1efe58838554) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd813e91e830baa9e1b617626e23527d3') in 0.010658 seconds 
+  Import took 0.013638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/Scenes/chadrun/run4.png
+  artifactKey: Guid(93564da89667bf4429b4e0412adab451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run4.png using Guid(93564da89667bf4429b4e0412adab451) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '376af4f28bdb32449bde55d72050553b') in 0.010367 seconds 
+  Import took 0.012962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Scenes/chadrun/run5.png
+  artifactKey: Guid(c3074abc7c0ba6a4987ccb91eb53718e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run5.png using Guid(c3074abc7c0ba6a4987ccb91eb53718e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79877f2de583eb59cae4134a64d27917') in 0.010373 seconds 
+  Import took 0.012751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Scenes/chadrun/run8.png
+  artifactKey: Guid(c751ed551c99ee54393feee427ecab92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run8.png using Guid(c751ed551c99ee54393feee427ecab92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '009cf0703a87edfeafd0804d75c94ba8') in 0.011091 seconds 
+  Import took 0.013550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Scenes/chadrun/run2.png
+  artifactKey: Guid(71fc086d70b8d184f80ad9206d7477ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/run2.png using Guid(71fc086d70b8d184f80ad9206d7477ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540321ab309b1904218316b6ab5a5aa6') in 0.010946 seconds 
+  Import took 0.013280 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003261 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.002 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1002ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (804ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (266ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (321ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (253ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.32 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1606 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 75.7 MB.
+System memory in use after: 75.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 2062.
+Total: 2.949800 ms (FindLiveObjects: 0.149100 ms CreateObjectMapping: 0.041700 ms MarkObjects: 2.741900 ms  DeleteObjects: 0.016200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 63.422796 seconds.
+  path: Assets/Scenes/scene4.unity
+  artifactKey: Guid(5b7946c5eea5c0c40915948b3d3b62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene4.unity using Guid(5b7946c5eea5c0c40915948b3d3b62b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0252e9a8a89b4af5ec96bccbcb077510') in 0.013652 seconds 
+  Import took 0.016927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.684734 seconds.
+  path: Assets/Scenes/scene3.unity
+  artifactKey: Guid(5ab93efb37c41614595c5d41231020db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene3.unity using Guid(5ab93efb37c41614595c5d41231020db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e000c10628dadc5db8b5da93ceb07a2') in 0.002841 seconds 
+  Import took 0.006175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.892827 seconds.
+  path: Assets/Scenes/scene1.unity
+  artifactKey: Guid(88769b363492938489d7373297e85c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/scene1.unity using Guid(88769b363492938489d7373297e85c82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9a9d75d633a4a71f53fe2323a45827') in 0.002095 seconds 
+  Import took 0.004479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.206971 seconds.
+  path: Assets/Scenes/chadrun/chad.controller
+  artifactKey: Guid(ef6b187f960d5b54b936374987ad9225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chad.controller using Guid(ef6b187f960d5b54b936374987ad9225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406a4b804c6dd53b4edb648838c7d3bb') in 0.005000 seconds 
+  Import took 0.007765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000856 seconds.
+  path: Assets/Scenes/chadrun/chad.controller
+  artifactKey: Guid(ef6b187f960d5b54b936374987ad9225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chad.controller using Guid(ef6b187f960d5b54b936374987ad9225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '406a4b804c6dd53b4edb648838c7d3bb') in 0.002514 seconds 
+  Import took 0.004959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.900248 seconds.
+  path: Assets/Scenes/chadrun/chadIdle.anim
+  artifactKey: Guid(cb96e40c39bf74424a0906fba47f5f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chadIdle.anim using Guid(cb96e40c39bf74424a0906fba47f5f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5678c4fcc4d5f2d3d6257cfef56802cc') in 0.003786 seconds 
+  Import took 0.006137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001940 seconds.
+  path: Assets/Scenes/chadrun/chadIdle.anim
+  artifactKey: Guid(cb96e40c39bf74424a0906fba47f5f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chadIdle.anim using Guid(cb96e40c39bf74424a0906fba47f5f66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5678c4fcc4d5f2d3d6257cfef56802cc') in 0.002071 seconds 
+  Import took 0.004483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.482610 seconds.
+  path: Assets/Scenes/chadrun/chadRunning.anim
+  artifactKey: Guid(bf16f47370c9182469a618eecfa80dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chadRunning.anim using Guid(bf16f47370c9182469a618eecfa80dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248875c467a6d07d8cb544a753453c09') in 0.002216 seconds 
+  Import took 0.004728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001964 seconds.
+  path: Assets/Scenes/chadrun/chadRunning.anim
+  artifactKey: Guid(bf16f47370c9182469a618eecfa80dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/chadrun/chadRunning.anim using Guid(bf16f47370c9182469a618eecfa80dd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248875c467a6d07d8cb544a753453c09') in 0.002128 seconds 
+  Import took 0.004637 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
