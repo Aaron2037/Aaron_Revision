@@ -4,7 +4,7 @@ public class BoxController : MonoBehaviour
 {
     public float SceneLength;
 
-    private float speed = 100f;
+    public float speed = 100f;
 
     public float gravity;
 
