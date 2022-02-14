@@ -984,6 +984,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &775767189 stripped
+Animator:
+  m_CorrespondingSourceObject: {fileID: 5749563682005509150, guid: aabef086519bc7847a4c99b20187ac26,
+    type: 3}
+  m_PrefabInstance: {fileID: 5749563681542021672}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &817715154
 GameObject:
   m_ObjectHideFlags: 0
@@ -2739,6 +2745,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 5749563682005509136, guid: aabef086519bc7847a4c99b20187ac26,
+        type: 3}
+      propertyPath: Animator
+      value: 
+      objectReference: {fileID: 775767189}
+    - target: {fileID: 5749563682005509138, guid: aabef086519bc7847a4c99b20187ac26,
+        type: 3}
+      propertyPath: m_LinearDrag
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5749563682005509147, guid: aabef086519bc7847a4c99b20187ac26,
         type: 3}
       propertyPath: m_Name
@@ -2799,6 +2815,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5749563682005509150, guid: aabef086519bc7847a4c99b20187ac26,
+        type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 6813c3e3ca546774196856229c65b3d3, type: 2}
     - target: {fileID: 5749563682005509151, guid: aabef086519bc7847a4c99b20187ac26,
         type: 3}
       propertyPath: begin
